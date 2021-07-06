@@ -3,21 +3,21 @@
 
 
 
-Participants:
+## Participants:
 - Luis Vazquez
 - Roberto Vera
 - Manuel Borrego
 
-Sources:
+## Sources:
 
 Search for NFL databases in kaggle.com & data.world.com
 
 We selected databases from below sources
 
-- https://data.world/datasets/nfl
-- https://www.kaggle.com/kendallgillies/nflstatistics
+-- https://data.world/datasets/nfl
+-- https://www.kaggle.com/kendallgillies/nflstatistics
 
-Procedure:
+## Procedure:
 
 - Selected the databases that will be used for the ETL Project (Extract-Transform-Load)
 -Explored databases, their content and logic to define the purpose/scope of the project.
