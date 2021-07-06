@@ -1,9 +1,9 @@
 # ETL-Project-NFL
 
 ## Participants:
-- Luis Vazquez
-- Roberto Vera
-- Manuel Borrego
+- [Luis Vazquez](https://github.com/luisovillista)
+- [Roberto Vera](https://github.com/veraroberto)
+- [Manuel Borrego](https://github.com/borregoma)
 
 ### Project Description
 
@@ -32,4 +32,4 @@ We selected databases from below sources
 
 
 ###
-You can see the [Project Report](https://docs.google.com/document/d/11p7Fv2TDa9G9dJfajHrj-REoDvdRHSiQsbXSKJVkAzs/edit)
+You can see the Report of the Project [here](https://docs.google.com/document/d/11p7Fv2TDa9G9dJfajHrj-REoDvdRHSiQsbXSKJVkAzs/edit)
