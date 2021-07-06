@@ -4,10 +4,9 @@
 
 
 Participants:
-
-Luis Vazquez
-Roberto Vera
-Manuel Borrego
+- Luis Vazquez
+- Roberto Vera
+- Manuel Borrego
 
 Sources:
 
