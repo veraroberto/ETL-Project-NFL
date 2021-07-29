@@ -1,14 +1,14 @@
 # ETL-Project-NFL
 
-## Participants:
+### Participants:
 - [Luis Vazquez](https://github.com/luisovillista)
 - [Roberto Vera](https://github.com/veraroberto)
 - [Manuel Borrego](https://github.com/borregoma)
 
 ### Project Description
-
-
-
+```
+PROJECT DESCRIPTION
+```
 ### Sources:
 
 Search for NFL databases in kaggle.com & data.world.com
