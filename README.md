@@ -6,9 +6,10 @@
 - [Manuel Borrego](https://github.com/borregoma)
 
 ### Project Description
-```
+
 For this project we extracted and analyzed data of statistics related to the NFL , that was obtained from Kagel. This whole data consists of 19 different datasets and the range of years is  from 1920 to 2016. The extraction, clean up and transformation was implemented with Python in a Jupyter Notebook.
-```
+
+
 ### Sources:
 
 Search for NFL databases in kaggle.com & data.world.com
